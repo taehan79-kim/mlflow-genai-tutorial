@@ -17,3 +17,6 @@ wheels/
 
 # mlflow local files
 mlruns/
+
+# macOS files
+.DS_Store
